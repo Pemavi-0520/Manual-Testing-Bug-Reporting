@@ -31,18 +31,12 @@ manual-testing-qa-portfolio/
 └── evidencias/                 # Capturas de pantalla como evidencia (a agregar)
 ```
 
-## Cómo usar este repo
-
-1. Revisa `docs/plan-de-pruebas.md` para entender el alcance y estrategia
-2. Ejecuta los casos listados en `docs/casos-de-prueba.md` contra el sitio en vivo
-3. Por cada defecto encontrado, copia `bugs/template-bug-report.md` y llénalo (ej. `bugs/BUG-001.md`)
-4. Guarda capturas de pantalla en `evidencias/` y referencia el archivo en el reporte
-
 ## Herramientas
 
 - Sitio bajo prueba: the-internet.herokuapp.com
 - Documentación: Markdown / GitHub
 - (Próximo proyecto) Gestión de defectos: Jira
+
 
 ## Contacto
 
