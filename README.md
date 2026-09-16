@@ -40,4 +40,4 @@ manual-testing-qa-portfolio/
 
 ## Contacto
 
-Mario Victorio — QA / Systems Engineer Jr. / mae.vic@outlook.com
+Mario Victorio — QA / Systems Engineer Jr. / mae.vic@outlook.com / https://www.linkedin.com/in/mariovictorio/
